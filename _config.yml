@@ -22,8 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jhu26@ualberta.ca"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: LinkedIn, icon: linkedin, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/yuqinglucky"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/jia-h-a8952b285/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
